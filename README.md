@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C0rek
 - 👀 I’m interested in learn new languages & be able to live from this
 - 🌱 I’m currently studying Informatics Engineering
-- 📫 How to reach me: myMail: rzoniweb@gmail.com
+- 📫 How to reach me: myMail: tomasrodriguezzoni2412@gmail.com
 
 <!---
 C0rek/C0rek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
