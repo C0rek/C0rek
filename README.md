@@ -1,4 +1,4 @@
-<h1 align="center" href="https://github.com/C0rek">Hi 👋, I'm C0rek🤖</h1>
+<h1 align="center">Hi 👋, I'm C0rek🤖</h1>
 <h3 align="center" >I'm a Junior developer from Argentina🧉</h3>
 <img align="right" alt="studying" width="400" src=https://media.tenor.com/P3sd-r-9bB4AAAAC/study-studying.gif>
 
