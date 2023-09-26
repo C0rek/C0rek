@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C0rek🤖</h1>
-<h3 align="center" text-decoration = "none" >A Junior developer from Argentina</h3>
+<h3 align="center" >A Junior developer from Argentina</h3>
 
 - 📚 I’m currently studying **Software Engineering**
 
